@@ -42,10 +42,12 @@
 
 ---
 
-<table width="100%" border="0" cellspacing="8" cellpadding="0"><tr>
-<td width="50%"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=ZIRENLI-001&show_icons=true&theme=dracula&bg_color=1a1b27&hide_border=false&border_color=9B72CF30&border_radius=12&title_color=9B72CF&icon_color=9B72CF&text_color=ccc&card_width=400" /></td>
-<td width="50%"><img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZIRENLI-001&layout=donut&theme=dracula&bg_color=1a1b27&hide_border=false&border_color=9B72CF30&border_radius=12&title_color=9B72CF&text_color=ccc&langs_count=6&card_width=400" /></td>
-</tr></table>
+<a href="https://github.com/ZIRENLI-001">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ZIRENLI-001&show_icons=true&theme=transparent&hide_border=true&title_color=9B72CF&icon_color=9B72CF&text_color=555&card_width=400" />
+</a>
+<a href="https://github.com/ZIRENLI-001">
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ZIRENLI-001&theme=transparent&hide_border=true&ring=9B72CF&fire=9B72CF&currStreakLabel=9B72CF&sideLabels=555&dates=999&currStreakNum=555&sideNums=555" />
+</a>
 
 ---
 
