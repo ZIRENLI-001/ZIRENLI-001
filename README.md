@@ -10,8 +10,6 @@
 
 <br>
 
-`🎨  A creative soul navigating the world of code`
-
 `🤖  AI Agent & LLM explorer · HCI enthusiast`
 
 `📖  Fascinated by the intersection of art and technology`
