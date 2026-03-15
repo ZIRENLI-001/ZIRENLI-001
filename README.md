@@ -5,14 +5,14 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=zirenli&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=✦%20creating%20·%20exploring%20·%20dreaming%20✦&descSize=16&descAlignY=52" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=22&duration=4000&pause=1200&color=9B72CF&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=55&lines=Hello%2C+I'm+zirenli+%F0%9F%8C%99;A+dreamer+who+writes+code+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=22&duration=4000&pause=1200&color=9B72CF&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=70&lines=Hello%2C+I'm+zirenli+%F0%9F%8C%99;A+dreamer+who+writes+code+%E2%9C%A8" alt="Typing SVG" />
 </a>
 
 <br>
 
 `🎨  A creative soul navigating the world of code`
 
-`🤖  AI Agent & LLM explorer · HCI`
+`🤖  AI Agent & LLM explorer · HCI enthusiast`
 
 `📖  Fascinated by the intersection of art and technology`
 
