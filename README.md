@@ -42,8 +42,10 @@
 
 ---
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ZIRENLI-001&show_icons=true&theme=dracula&bg_color=1a1b27&hide_border=false&border_color=9B72CF30&border_radius=12&title_color=9B72CF&icon_color=9B72CF&text_color=ccc" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZIRENLI-001&layout=compact&theme=dracula&bg_color=1a1b27&hide_border=false&border_color=9B72CF30&border_radius=12&title_color=9B72CF&text_color=ccc&langs_count=6" />
+<table width="100%" border="0" cellspacing="8" cellpadding="0"><tr>
+<td width="50%"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=ZIRENLI-001&show_icons=true&theme=dracula&bg_color=1a1b27&hide_border=false&border_color=9B72CF30&border_radius=12&title_color=9B72CF&icon_color=9B72CF&text_color=ccc&card_width=400" /></td>
+<td width="50%"><img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZIRENLI-001&layout=donut&theme=dracula&bg_color=1a1b27&hide_border=false&border_color=9B72CF30&border_radius=12&title_color=9B72CF&text_color=ccc&langs_count=6&card_width=400" /></td>
+</tr></table>
 
 ---
 
