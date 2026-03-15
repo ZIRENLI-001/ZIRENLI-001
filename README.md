@@ -8,23 +8,30 @@
 
 </div>
 
-```text
-🤖  AI Agent & LLM explorer · MCP enthusiast
-🌸  she/her
-☕  Curiosity · Thirst for knowledge · A young heart
-```
+<div align="center">
+
+`🎨  A creative soul navigating the world of code`
+
+`🤖  AI Agent & LLM explorer · MCP enthusiast`
+
+`📖  Fascinated by the intersection of art and technology`
+
+`☕  Curiosity · Thirst for knowledge · A young heart`
+
+</div>
 
 ---
 
 <div align="center">
 
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=flat-square&logo=anthropic&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
@@ -33,8 +40,8 @@
 ---
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ZIRENLI-001&show_icons=true&theme=dracula&bg_color=00000000&hide_border=true&title_color=9B72CF&icon_color=9B72CF&text_color=ccc" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZIRENLI-001&layout=compact&theme=dracula&bg_color=00000000&hide_border=true&title_color=9B72CF&text_color=ccc&langs_count=6" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ZIRENLI-001&show_icons=true&theme=dracula&bg_color=1a1b27&hide_border=false&border_color=9B72CF30&border_radius=12&title_color=9B72CF&icon_color=9B72CF&text_color=ccc" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZIRENLI-001&layout=compact&theme=dracula&bg_color=1a1b27&hide_border=false&border_color=9B72CF30&border_radius=12&title_color=9B72CF&text_color=ccc&langs_count=6" />
 </div>
 
 ---
