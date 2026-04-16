@@ -26,7 +26,7 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![MS‐Swift](https://img.shields.io/badge/MS--Swift-9B72CF?style=flat-square&logoColor=white)
 ![VeRL](https://img.shields.io/badge/VeRL-8B5CF6?style=flat-square&logoColor=white)
-![AgentLighting](https://img.shields.io/badge/Agent--Lighting-7C3AED?style=flat-square&logoColor=white)
+![AgentLightning](https://img.shields.io/badge/Agent--Lightning-7C3AED?style=flat-square&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 
